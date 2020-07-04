@@ -23,7 +23,7 @@ from the deck. The player will enter a single character to signify their choice 
 Diamonds, C for Clubs and S for Spades. The player has three attempts to guess the correct suit. Points are
 deducted from the player’s score each time the player guesses incorrectly. Points deduction during this part of the game are as follows
 
-Incorrect Guess    |    Points deducted
+Incorrect Guess    |    Points deducted:
       1st          |         5
       2nd          |        10
       3rd          |        15
